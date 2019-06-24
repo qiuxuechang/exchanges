@@ -1,0 +1,17 @@
+管理后台：
+删除子商品表 PHP /home/web/www.passfeed.com/ec_group_delete.php mv
+增加子商品表 PHP /home/web/www.passfeed.com/ec_group.php mv
+
+导产品 PHP /home/web/www.passfeed.com/addocproduct.php
+导用户 PHP /home/web/www.passfeed.com/addocmembers.php
+导订单 PHP /home/web/www.passfeed.com/ecorders2oc.php
+批量生成行用卡 PHP /home/web/www.passfeed.com/createcard.php
+
+导入分类 http://192.168.1.130:8100/admin.php?m=test&a=occategory
+
+导入magento订单  php /home/www/thinkphp5/public/index.php /myexec/magento/ecorders4
+
+导入excel  php /home/www/thinkphp5/public/index.php /myexec/exceltocsut/test
+
+结汇  192.168.1.130  /data1/home/web/passfeed_exchange
+         svn://192.168.1.201/web/passfeed_exchange
